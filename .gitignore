@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 測試 / 覆蓋率產物
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# 虛擬環境
+.venv/
+venv/
+
+# uv
+.python-version
+
+# OS / 編輯器
+.DS_Store
+.idea/
+.vscode/
